@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Validation Candidate Suite" verbose="1" parallel="methods" thread-count="2">
+
+    <listeners>
+        <listener class-name="by.kvach.lightBase.util.ScreenshotListener"/>
+        <listener class-name="com.epam.reportportal.testng.ReportPortalTestNGListener"/>
+    </listeners>
+
+    <test verbose="1" name="CandidateValidation">
+        <classes>
+            <class name="TestCandidate">
+                <methods>
+                    <include name="validationAddCandidate"/>
+                    <include name="validationDisableAddContact"/>
+                    <include name="validationEnableAddContact"/>
+                    <include name="assertCandidateUrl"/>
+                    <include name="assertContactTypes"/>
+                </methods>
+            </class>
+        </classes>
+    </test>
+
+</suite>

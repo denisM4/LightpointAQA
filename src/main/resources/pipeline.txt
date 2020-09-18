@@ -1,0 +1,18 @@
+pipeline{
+    agent any
+    parameters{
+        choice(name:"SUITE", choices:["CandidateSuite", "VacancySuite", "RegressionSuite", "SmokeSuite",  "ValidationCandidateSuite", "ValidationVacancySuite"], description:"select suite")
+    }
+    stages{
+        stage('Get framework from GitLab'){
+            steps{
+                git branch: 'jenkins', credentialsId: 'SSH-Key-Gitlab', url: ''
+            }
+        }
+        stage('Execute framework'){
+            steps{
+                sh "mvn -B -Dsuite=${params.SUITE}.xml -Drp.launch=dkvach_${params.SUITE} clean install"
+            }
+        }
+    }
+}

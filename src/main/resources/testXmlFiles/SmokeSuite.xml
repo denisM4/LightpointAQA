@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Smoke Suite" verbose="1" parallel="methods" thread-count="1">
+
+    <listeners>
+        <listener class-name="by.kvach.lightBase.util.ScreenshotListener"/>
+        <listener class-name="com.epam.reportportal.testng.ReportPortalTestNGListener"/>
+    </listeners>
+
+    <test verbose="1" name="Candidate">
+        <classes>
+            <class name="TestCandidate">
+                <methods>
+                    <include name="addCandidate"/>
+                    <include name="updateCandidate"/>
+                    <include name="deleteCandidateByName"/>
+                </methods>
+            </class>
+        </classes>
+    </test>
+
+
+    <test verbose="1" name="Vacancy">
+        <classes>
+            <class name="TestVacancy">
+                <methods>
+                    <include name="addVacancy"/>
+                    <include name="updateVacancy"/>
+                    <include name="deleteVacancy"/>
+                </methods>
+            </class>
+        </classes>
+    </test>
+
+    <test verbose="1" name="API">
+        <classes>
+            <class name="TestApi">
+                <methods>
+                    <include name="postAddNewVacancy"/>
+                    <include name="postAddNewCandidate"/>
+                </methods>
+            </class>
+        </classes>
+    </test>
+
+</suite>

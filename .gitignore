@@ -1,0 +1,7 @@
+/target/
+/build/
+/test-output/
+Jenkins
+Jenkins.pub
+demoApplication.log
+LightBase.iml

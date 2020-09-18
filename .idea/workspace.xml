@@ -1,0 +1,1530 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="6d4826fc-4a89-4421-b4e4-b040c50bba0e" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/out/" />
+    <ignored path="$PROJECT_DIR$/target/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CoverageDataManager">
+    <SUITE FILE_PATH="coverage/LightBase$Unnamed.ic" NAME="Unnamed Coverage Results" MODIFIED="1596982954464" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+    <SUITE FILE_PATH="coverage/LightBase$TestApi_getUser.ic" NAME="TestApi.getUser Coverage Results" MODIFIED="1595857318311" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="FUSProjectUsageTrigger">
+    <session id="642076068">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="3" />
+          <entry key="project.open.time.18" value="1" />
+          <entry key="project.open.time.24" value="1" />
+          <entry key="project.open.time.59" value="1" />
+          <entry key="project.opened" value="3" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="java" value="2632" />
+          <entry key="txt" value="10" />
+          <entry key="xml" value="6" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="JAVA" value="2632" />
+          <entry key="PLAIN_TEXT" value="10" />
+          <entry key="XML" value="6" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="class" value="2" />
+          <entry key="java" value="68" />
+          <entry key="txt" value="1" />
+          <entry key="xml" value="2" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="CLASS" value="2" />
+          <entry key="JAVA" value="68" />
+          <entry key="PLAIN_TEXT" value="1" />
+          <entry key="XML" value="2" />
+        </counts>
+      </usages-collector>
+    </session>
+    <session id="-1099319212">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="39" />
+          <entry key="project.open.time.106" value="1" />
+          <entry key="project.open.time.120" value="1" />
+          <entry key="project.open.time.121" value="1" />
+          <entry key="project.open.time.16" value="2" />
+          <entry key="project.open.time.24" value="1" />
+          <entry key="project.open.time.25" value="1" />
+          <entry key="project.open.time.35" value="1" />
+          <entry key="project.open.time.38" value="1" />
+          <entry key="project.open.time.39" value="1" />
+          <entry key="project.open.time.42" value="1" />
+          <entry key="project.open.time.44" value="1" />
+          <entry key="project.open.time.45" value="1" />
+          <entry key="project.open.time.49" value="5" />
+          <entry key="project.open.time.50" value="2" />
+          <entry key="project.open.time.52" value="3" />
+          <entry key="project.open.time.53" value="2" />
+          <entry key="project.open.time.54" value="3" />
+          <entry key="project.open.time.56" value="2" />
+          <entry key="project.open.time.57" value="1" />
+          <entry key="project.open.time.58" value="2" />
+          <entry key="project.open.time.60" value="3" />
+          <entry key="project.open.time.61" value="1" />
+          <entry key="project.open.time.62" value="1" />
+          <entry key="project.open.time.65" value="2" />
+          <entry key="project.open.time.66" value="4" />
+          <entry key="project.open.time.67" value="1" />
+          <entry key="project.open.time.70" value="1" />
+          <entry key="project.open.time.74" value="2" />
+          <entry key="project.open.time.76" value="1" />
+          <entry key="project.open.time.81" value="1" />
+          <entry key="project.open.time.82" value="2" />
+          <entry key="project.open.time.92" value="1" />
+          <entry key="project.open.time.93" value="1" />
+          <entry key="project.opened" value="54" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="RegressionSuite" value="1" />
+          <entry key="ValidationVacancySuite" value="1" />
+          <entry key="class" value="14" />
+          <entry key="fxml" value="1" />
+          <entry key="gitignore" value="1" />
+          <entry key="html" value="1" />
+          <entry key="java" value="652" />
+          <entry key="png" value="5" />
+          <entry key="pom" value="1" />
+          <entry key="properties" value="11" />
+          <entry key="txt" value="13" />
+          <entry key="xml" value="108" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="CLASS" value="14" />
+          <entry key="HTML" value="1" />
+          <entry key="Image" value="5" />
+          <entry key="JAVA" value="652" />
+          <entry key="PLAIN_TEXT" value="14" />
+          <entry key="Properties" value="11" />
+          <entry key="XML" value="112" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="RegressionSuite" value="10" />
+          <entry key="dummy" value="13" />
+          <entry key="fxml" value="11" />
+          <entry key="gitignore" value="23" />
+          <entry key="java" value="23442" />
+          <entry key="properties" value="112" />
+          <entry key="txt" value="75" />
+          <entry key="xml" value="1041" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="JAVA" value="23442" />
+          <entry key="PLAIN_TEXT" value="111" />
+          <entry key="Properties" value="112" />
+          <entry key="XML" value="1062" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.vcs.git.usages">
+        <counts>
+          <entry key="git.branch.checkout.local" value="1" />
+        </counts>
+      </usages-collector>
+    </session>
+    <session id="1154691587">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="2" />
+          <entry key="project.open.time.1" value="1" />
+          <entry key="project.open.time.55" value="1" />
+          <entry key="project.open.time.56" value="1" />
+          <entry key="project.opened" value="3" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="Jenkins" value="1" />
+          <entry key="gitignore" value="1" />
+          <entry key="java" value="36" />
+          <entry key="properties" value="1" />
+          <entry key="txt" value="3" />
+          <entry key="xml" value="8" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="JAVA" value="36" />
+          <entry key="PLAIN_TEXT" value="5" />
+          <entry key="Properties" value="1" />
+          <entry key="XML" value="8" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="Jenkins" value="1" />
+          <entry key="java" value="6" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="JAVA" value="6" />
+          <entry key="PLAIN_TEXT" value="1" />
+        </counts>
+      </usages-collector>
+    </session>
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="LightBase" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/resources/testXmlFiles/ValidationVacancySuite.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="306">
+              <caret line="18" selection-start-line="18" selection-end-line="18" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/by/kvach/lightBase/config/ConfigTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="170">
+              <caret line="16" column="37" lean-forward="true" selection-start-line="16" selection-start-column="37" selection-end-line="16" selection-end-column="37" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/by/kvach/lightBase/model/Candidate.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-1677">
+              <caret line="8" column="20" selection-start-line="8" selection-start-column="20" selection-end-line="8" selection-end-column="20" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/by/kvach/lightBase/model/ContactType.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="34">
+              <caret line="2" column="12" selection-start-line="2" selection-start-column="12" selection-end-line="2" selection-end-column="12" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/by/kvach/lightBase/model/Vacancy.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-1068">
+              <caret line="18" column="11" selection-start-line="18" selection-start-column="11" selection-end-line="18" selection-end-column="11" />
+              <folding>
+                <element signature="method#setRequiredTechnologies#0;class#Vacancy#0" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/by/kvach/lightBase/page/candidate/AddCandidatePage.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="85">
+              <caret line="46" column="7" lean-forward="true" selection-start-line="46" selection-start-column="7" selection-end-line="46" selection-end-column="7" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/by/kvach/lightBase/model/Contact.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="51">
+              <caret line="3" lean-forward="true" selection-start-line="3" selection-end-line="3" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Enum" />
+        <option value="FxmlFile" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>new LogUtils()</find>
+      <find>with name LIKE</find>
+    </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/main/resources/RegressionSuite" />
+        <option value="$PROJECT_DIR$/src/main/resources/RegressionSuite.xml" />
+        <option value="$PROJECT_DIR$/src/main/resources/testXmlFiles/CandidateSuite.fxml" />
+        <option value="$PROJECT_DIR$/src/main/resources/testXmlFiles/Vacancy.xml" />
+        <option value="$PROJECT_DIR$/src/main/java/by/kvach/lightBase/service/json/EndPoint.java" />
+        <option value="$PROJECT_DIR$/src/main/resources/pipline.txt" />
+        <option value="$PROJECT_DIR$/src/main/resources/testXmlFiles/ValidationVacancySuite" />
+        <option value="$PROJECT_DIR$/src/main/java/by/kvach/lightBase/page/candidate/AddContactModal.java" />
+        <option value="$PROJECT_DIR$/.gitignore" />
+        <option value="$PROJECT_DIR$/src/main/java/by/kvach/lightBase/service/dbangine/Procedure.java" />
+        <option value="$PROJECT_DIR$/src/main/java/by/kvach/lightBase/page/LoginPage.java" />
+        <option value="$PROJECT_DIR$/src/main/java/by/kvach/lightBase/service/dbangine/Query.java" />
+        <option value="$PROJECT_DIR$/src/main/java/by/kvach/lightBase/service/apiangine/ApiAngine.java" />
+        <option value="$PROJECT_DIR$/src/main/java/by/kvach/lightBase/service/apiangine/ApiExecutor.java" />
+        <option value="$PROJECT_DIR$/src/main/java/by/kvach/lightBase/service/json/JsonUtil.java" />
+        <option value="$PROJECT_DIR$/src/main/java/by/kvach/lightBase/util/ScreenshootUtil.java" />
+        <option value="$PROJECT_DIR$/src/main/java/by/kvach/lightBase/service/json/JsonBody.java" />
+        <option value="$PROJECT_DIR$/src/main/resources/log4j2.xml" />
+        <option value="$PROJECT_DIR$/src/main/java/TestAPI.java" />
+        <option value="$PROJECT_DIR$/src/test/java/TestVacancy.java" />
+        <option value="$PROJECT_DIR$/src/main/resources/testXmlFiles/ValidationCandidateSuite.xml" />
+        <option value="$PROJECT_DIR$/src/main/java/by/kvach/lightBase/model/Contact.java" />
+        <option value="$PROJECT_DIR$/src/main/java/by/kvach/lightBase/page/vacancy/AddVacancyModal.java" />
+        <option value="$PROJECT_DIR$/src/main/java/by/kvach/lightBase/page/vacancy/EditVacancyModal.java" />
+        <option value="$PROJECT_DIR$/src/main/java/by/kvach/lightBase/page/vacancy/VacancyAbstractModal.java" />
+        <option value="$PROJECT_DIR$/src/main/java/by/kvach/lightBase/page/vacancy/VacancyPage.java" />
+        <option value="$PROJECT_DIR$/src/main/java/by/kvach/lightBase/util/LogUtils.java" />
+        <option value="$PROJECT_DIR$/src/main/java/by/kvach/lightBase/util/ScreenshotListener.java" />
+        <option value="$PROJECT_DIR$/src/main/java/by/kvach/lightBase/util/Util.java" />
+        <option value="$PROJECT_DIR$/src/test/java/TestApi.java" />
+        <option value="$PROJECT_DIR$/src/test/java/TestCandidate.java" />
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/src/main/resources/testXmlFiles/VacancySuite.xml" />
+        <option value="$PROJECT_DIR$/src/main/resources/testXmlFiles/ValidationVacancySuite.xml" />
+        <option value="$PROJECT_DIR$/src/main/resources/testXmlFiles/CandidateSuite.xml" />
+        <option value="$PROJECT_DIR$/src/main/java/by/kvach/lightBase/Main.java" />
+        <option value="$PROJECT_DIR$/src/main/resources/testXmlFiles/RegressionSuite.xml" />
+        <option value="$PROJECT_DIR$/src/main/resources/testXmlFiles/SmokeSuite.xml" />
+        <option value="$PROJECT_DIR$/src/main/java/by/kvach/lightBase/config/ConfigTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/by/kvach/lightBase/page/candidate/AddCandidatePage.java" />
+        <option value="$PROJECT_DIR$/src/main/java/by/kvach/lightBase/page/candidate/CandidateDetailsPage.java" />
+        <option value="$PROJECT_DIR$/src/main/java/by/kvach/lightBase/page/candidate/CandidatesTablePage.java" />
+        <option value="$PROJECT_DIR$/src/main/java/by/kvach/lightBase/service/apiangine/APIExecutor.java" />
+        <option value="$PROJECT_DIR$/src/main/java/by/kvach/lightBase/service/apiangine/EndPoint.java" />
+        <option value="$PROJECT_DIR$/src/main/java/by/kvach/lightBase/service/dbangine/DBConnect.java" />
+        <option value="$PROJECT_DIR$/src/main/java/by/kvach/lightBase/steps/ApiSteps.java" />
+        <option value="$PROJECT_DIR$/src/main/resources/pipeline.txt" />
+        <option value="$PROJECT_DIR$/src/main/resources/reportportal.properties" />
+        <option value="$PROJECT_DIR$/Jenkins" />
+        <option value="$PROJECT_DIR$/src/main/java/by/kvach/lightBase/steps/CandidateSteps.java" />
+        <option value="$PROJECT_DIR$/src/main/java/by/kvach/lightBase/steps/VacancySteps.java" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="LogFilters">
+    <option name="FILTER_ERRORS" value="false" />
+    <option name="FILTER_WARNINGS" value="false" />
+    <option name="FILTER_INFO" value="true" />
+    <option name="FILTER_DEBUG" value="true" />
+    <option name="CUSTOM_FILTER" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="MavenProjectNavigator">
+    <treeState>
+      <expand>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="LiteBase" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+        </path>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="LiteBase" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+          <item name="Lifecycle" type="58874e2:MavenProjectsStructure$LifecycleNode" />
+        </path>
+      </expand>
+      <select />
+    </treeState>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="71" />
+    <option name="width" value="658" />
+    <option name="height" value="775" />
+  </component>
+  <component name="ProjectInspectionProfilesVisibleTreeState">
+    <entry key="Project Default">
+      <profile-state>
+        <expanded-state>
+          <State />
+          <State>
+            <id>Java</id>
+          </State>
+          <State>
+            <id>JavadocJava</id>
+          </State>
+          <State>
+            <id>SQL</id>
+          </State>
+        </expanded-state>
+        <selected-state>
+          <State>
+            <id>JavaDoc</id>
+          </State>
+        </selected-state>
+      </profile-state>
+    </entry>
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="LightpointAQA" type="b2602c69:ProjectViewProjectNode" />
+              <item name="LightpointAQA" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="LightpointAQA" type="b2602c69:ProjectViewProjectNode" />
+              <item name="LightpointAQA" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="LightpointAQA" type="b2602c69:ProjectViewProjectNode" />
+              <item name="LightpointAQA" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="LightpointAQA" type="b2602c69:ProjectViewProjectNode" />
+              <item name="LightpointAQA" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="LightpointAQA" type="b2602c69:ProjectViewProjectNode" />
+              <item name="LightpointAQA" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="lightBase" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="LightpointAQA" type="b2602c69:ProjectViewProjectNode" />
+              <item name="LightpointAQA" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="lightBase" type="462c0819:PsiDirectoryNode" />
+              <item name="config" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="LightpointAQA" type="b2602c69:ProjectViewProjectNode" />
+              <item name="LightpointAQA" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="lightBase" type="462c0819:PsiDirectoryNode" />
+              <item name="model" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="LightpointAQA" type="b2602c69:ProjectViewProjectNode" />
+              <item name="LightpointAQA" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="lightBase" type="462c0819:PsiDirectoryNode" />
+              <item name="page" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="LightpointAQA" type="b2602c69:ProjectViewProjectNode" />
+              <item name="LightpointAQA" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="lightBase" type="462c0819:PsiDirectoryNode" />
+              <item name="page" type="462c0819:PsiDirectoryNode" />
+              <item name="candidate" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="LightpointAQA" type="b2602c69:ProjectViewProjectNode" />
+              <item name="LightpointAQA" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="LightpointAQA" type="b2602c69:ProjectViewProjectNode" />
+              <item name="LightpointAQA" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+              <item name="testXmlFiles" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="LightpointAQA" type="b2602c69:ProjectViewProjectNode" />
+              <item name="LightpointAQA" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="LightpointAQA" type="b2602c69:ProjectViewProjectNode" />
+              <item name="LightpointAQA" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="TODO_SCOPE" value="All Places" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1599494490643" />
+    <property name="last_directory_selection" value="$PROJECT_DIR$/src/main/java/by/kvach/lightBase/service" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="project.structure.last.edited" value="SDKs" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="reference.projectsettings.compiler.javacompiler" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="by.kvach.lightBase.service.dbangine" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\Lightpoint\LightBase\src\main\resources\testXmlFiles" />
+      <recent name="D:\Lightpoint\LightBase\src\main\resources" />
+      <recent name="D:\Lightpoint\LightBase\src\test\resources" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="TestNG.TestCandidate">
+    <configuration default="true" type="JetRunConfigurationType" factoryName="Kotlin">
+      <module name="LightBase" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="WORKING_DIRECTORY" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType" factoryName="Kotlin script">
+      <module name="LightBase" />
+      <option name="filePath" />
+      <option name="vmParameters" />
+      <option name="alternativeJrePath" />
+      <option name="programParameters" />
+      <option name="passParentEnvs" value="true" />
+      <option name="workingDirectory" />
+      <option name="isAlternativeJrePathEnabled" value="false" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="filePath" />
+      <option name="vmParameters" />
+      <option name="alternativeJrePath" />
+      <option name="programParameters" />
+      <option name="passParentEnvs" value="true" />
+      <option name="workingDirectory" />
+      <option name="isAlternativeJrePathEnabled" value="false" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="WORKING_DIRECTORY" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="D:/Lightpoint/LightBase/src/main/resources/testXmlFiles/CandidateSuite.xml" type="TestNG" factoryName="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="LightpointAQA" />
+      <option name="SUITE_NAME" value="$PROJECT_DIR$/src/main/resources/testXmlFiles/CandidateSuite.xml" />
+      <option name="TEST_OBJECT" value="SUITE" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="D:/Lightpoint/LightBase/src/main/resources/testXmlFiles/RegressionSuite.xml" type="TestNG" factoryName="TestNG" nameIsGenerated="true">
+      <module name="LightpointAQA" />
+      <option name="SUITE_NAME" value="$PROJECT_DIR$/src/main/resources/testXmlFiles/RegressionSuite.xml" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="GROUP_NAME" value="" />
+      <option name="TEST_OBJECT" value="SUITE" />
+      <option name="PARAMETERS" value="" />
+      <option name="OUTPUT_DIRECTORY" value="" />
+      <option name="PROPERTIES_FILE" value="" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="D:/Lightpoint/LightBase/src/main/resources/testXmlFiles/SmokeSuite.xml" type="TestNG" factoryName="TestNG" nameIsGenerated="true">
+      <module name="LightpointAQA" />
+      <option name="SUITE_NAME" value="$PROJECT_DIR$/src/main/resources/testXmlFiles/SmokeSuite.xml" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="GROUP_NAME" value="" />
+      <option name="TEST_OBJECT" value="SUITE" />
+      <option name="PARAMETERS" value="" />
+      <option name="OUTPUT_DIRECTORY" value="" />
+      <option name="PROPERTIES_FILE" value="" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="D:/Lightpoint/LightBase/src/main/resources/testXmlFiles/VacancySuite.xml" type="TestNG" factoryName="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="LightpointAQA" />
+      <option name="SUITE_NAME" value="$PROJECT_DIR$/src/main/resources/testXmlFiles/VacancySuite.xml" />
+      <option name="TEST_OBJECT" value="SUITE" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="D:/Lightpoint/LightBase/src/main/resources/testXmlFiles/ValidationCandidateSuite.xml" type="TestNG" factoryName="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="LightpointAQA" />
+      <option name="SUITE_NAME" value="$PROJECT_DIR$/src/main/resources/testXmlFiles/ValidationCandidateSuite.xml" />
+      <option name="TEST_OBJECT" value="SUITE" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="D:/Lightpoint/LightBase/src/main/resources/testXmlFiles/ValidationVacancySuite.xml" type="TestNG" factoryName="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="LightpointAQA" />
+      <option name="SUITE_NAME" value="$PROJECT_DIR$/src/main/resources/testXmlFiles/ValidationVacancySuite.xml" />
+      <option name="TEST_OBJECT" value="SUITE" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestCandidate" type="TestNG" factoryName="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="LightpointAQA" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="TestCandidate" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Unnamed" type="TestNG" factoryName="TestNG">
+      <log_file alias="D:\Lightpoint\LightBase\src\main\resources\log4j2.xml" path="$PROJECT_DIR$/src/main/resources/log4j2.xml" />
+      <module name="LightpointAQA" />
+      <option name="SUITE_NAME" value="$PROJECT_DIR$/src/main/resources/testng.xml" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="GROUP_NAME" value="" />
+      <option name="TEST_OBJECT" value="SUITE" />
+      <option name="VM_PARAMETERS" />
+      <option name="PARAMETERS" value="" />
+      <option name="OUTPUT_DIRECTORY" value="" />
+      <option name="PROPERTIES_FILE" value="" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="TestNG.D:/Lightpoint/LightBase/src/main/resources/testXmlFiles/SmokeSuite.xml" />
+      <item itemvalue="TestNG.Unnamed" />
+      <item itemvalue="TestNG.D:/Lightpoint/LightBase/src/main/resources/testXmlFiles/RegressionSuite.xml" />
+      <item itemvalue="TestNG.D:/Lightpoint/LightBase/src/main/resources/testXmlFiles/CandidateSuite.xml" />
+      <item itemvalue="TestNG.D:/Lightpoint/LightBase/src/main/resources/testXmlFiles/VacancySuite.xml" />
+      <item itemvalue="TestNG.D:/Lightpoint/LightBase/src/main/resources/testXmlFiles/ValidationVacancySuite.xml" />
+      <item itemvalue="TestNG.D:/Lightpoint/LightBase/src/main/resources/testXmlFiles/ValidationCandidateSuite.xml" />
+      <item itemvalue="TestNG.TestCandidate" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="TestNG.TestCandidate" />
+        <item itemvalue="TestNG.D:/Lightpoint/LightBase/src/main/resources/testXmlFiles/ValidationCandidateSuite.xml" />
+        <item itemvalue="TestNG.D:/Lightpoint/LightBase/src/main/resources/testXmlFiles/ValidationVacancySuite.xml" />
+        <item itemvalue="TestNG.D:/Lightpoint/LightBase/src/main/resources/testXmlFiles/VacancySuite.xml" />
+        <item itemvalue="TestNG.D:/Lightpoint/LightBase/src/main/resources/testXmlFiles/CandidateSuite.xml" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="6d4826fc-4a89-4421-b4e4-b040c50bba0e" name="Default Changelist" comment="" />
+      <created>1594799624283</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1594799624283</updated>
+      <workItem from="1594799643937" duration="21049000" />
+      <workItem from="1594882815747" duration="8988000" />
+      <workItem from="1594924070530" duration="25378000" />
+      <workItem from="1595159759935" duration="9504000" />
+      <workItem from="1595267032521" duration="5805000" />
+      <workItem from="1595315132379" duration="3962000" />
+      <workItem from="1595398496375" duration="17193000" />
+      <workItem from="1595487777632" duration="17362000" />
+      <workItem from="1595529415158" duration="14466000" />
+      <workItem from="1595692165860" duration="10719000" />
+      <workItem from="1595748119509" duration="12959000" />
+      <workItem from="1595858138677" duration="981000" />
+      <workItem from="1595878775362" duration="2441000" />
+      <workItem from="1595920218380" duration="9096000" />
+      <workItem from="1595966197988" duration="8151000" />
+      <workItem from="1596001015942" duration="8244000" />
+      <workItem from="1596017406515" duration="14108000" />
+      <workItem from="1596093159513" duration="16809000" />
+      <workItem from="1596155090085" duration="3349000" />
+      <workItem from="1596196408400" duration="63114000" />
+      <workItem from="1596387918222" duration="33578000" />
+      <workItem from="1596472350919" duration="3128000" />
+      <workItem from="1596524921426" duration="7578000" />
+      <workItem from="1596634848757" duration="2007000" />
+      <workItem from="1596697624563" duration="13240000" />
+      <workItem from="1596743631355" duration="8351000" />
+      <workItem from="1596922295693" duration="3241000" />
+      <workItem from="1596966629885" duration="34520000" />
+      <workItem from="1597210099343" duration="11919000" />
+      <workItem from="1597232570188" duration="20479000" />
+      <workItem from="1597306390965" duration="1078000" />
+      <workItem from="1597311174632" duration="56246000" />
+      <workItem from="1597581853509" duration="7380000" />
+      <workItem from="1597692398542" duration="4639000" />
+      <workItem from="1597709576945" duration="4700000" />
+      <workItem from="1597848456904" duration="776000" />
+      <workItem from="1597849320876" duration="3407000" />
+      <workItem from="1597869511857" duration="4461000" />
+      <workItem from="1597874761852" duration="3607000" />
+      <workItem from="1597906787366" duration="2557000" />
+      <workItem from="1598047547415" duration="10071000" />
+      <workItem from="1598104095101" duration="7758000" />
+      <workItem from="1598130219288" duration="2516000" />
+      <workItem from="1598177353296" duration="33332000" />
+      <workItem from="1598252664209" duration="14031000" />
+      <workItem from="1598339361058" duration="7726000" />
+      <workItem from="1598383591282" duration="13582000" />
+      <workItem from="1598456595736" duration="10753000" />
+      <workItem from="1598512377049" duration="12046000" />
+      <workItem from="1598602890980" duration="2658000" />
+      <workItem from="1598615618379" duration="628000" />
+      <workItem from="1598617126324" duration="9535000" />
+      <workItem from="1598636967774" duration="11815000" />
+      <workItem from="1598718524196" duration="52118000" />
+      <workItem from="1598867335064" duration="5209000" />
+      <workItem from="1598967483464" duration="11918000" />
+      <workItem from="1599484233507" duration="1258000" />
+      <workItem from="1599489876581" duration="3687000" />
+      <workItem from="1599831817479" duration="1850000" />
+      <workItem from="1600419892467" duration="1421000" />
+    </task>
+    <task id="LOCAL-00001" summary="Update Project For Jenkins">
+      <created>1597851086442</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1597851086442</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Update Project For Jenkins">
+      <created>1598258362134</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1598258362135</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Update Project For Jenkins">
+      <created>1598346222872</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1598346222879</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Add delete methods">
+      <created>1598398197749</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1598398197749</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Add delete methods">
+      <created>1598398326437</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1598398326437</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Log change">
+      <created>1598527491325</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1598527491325</updated>
+    </task>
+    <task id="LOCAL-00007" summary="Log change">
+      <created>1598527821931</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1598527821931</updated>
+    </task>
+    <task id="LOCAL-00008" summary="Log change">
+      <created>1598626607061</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1598626607061</updated>
+    </task>
+    <task id="LOCAL-00009" summary="Log change">
+      <created>1598627697004</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1598627697004</updated>
+    </task>
+    <task id="LOCAL-00010" summary="Log change">
+      <created>1598628288266</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1598628288267</updated>
+    </task>
+    <task id="LOCAL-00011" summary="Log change">
+      <created>1598630029163</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1598630029163</updated>
+    </task>
+    <task id="LOCAL-00012" summary="Log change">
+      <created>1598630172906</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1598630172906</updated>
+    </task>
+    <task id="LOCAL-00013" summary="Log change">
+      <created>1598630542260</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1598630542260</updated>
+    </task>
+    <task id="LOCAL-00014" summary="Log change">
+      <created>1598631132990</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1598631132990</updated>
+    </task>
+    <task id="LOCAL-00015" summary="Log change">
+      <created>1598631995897</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1598631995897</updated>
+    </task>
+    <task id="LOCAL-00016" summary="Log change">
+      <created>1598793880763</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1598793880764</updated>
+    </task>
+    <task id="LOCAL-00017" summary="Log change">
+      <created>1598808661734</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1598808661734</updated>
+    </task>
+    <option name="localTasksCounter" value="18" />
+    <servers />
+  </component>
+  <component name="TestHistory">
+    <history-entry file="D__Lightpoint_LightBase_src_main_resources_testXmlFiles_RegressionSuite_xml - 2020.09.01 at 19h 37m 19s.xml">
+      <configuration name="D:/Lightpoint/LightBase/src/main/resources/testXmlFiles/RegressionSuite.xml" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="D__Lightpoint_LightBase_src_main_resources_testXmlFiles_RegressionSuite_xml - 2020.09.02 at 13h 01m 54s.xml">
+      <configuration name="D:/Lightpoint/LightBase/src/main/resources/testXmlFiles/RegressionSuite.xml" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="D__Lightpoint_LightBase_src_main_resources_testXmlFiles_RegressionSuite_xml - 2020.09.02 at 13h 16m 04s.xml">
+      <configuration name="D:/Lightpoint/LightBase/src/main/resources/testXmlFiles/RegressionSuite.xml" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="D__Lightpoint_LightBase_src_main_resources_testXmlFiles_RegressionSuite_xml - 2020.09.02 at 13h 20m 15s.xml">
+      <configuration name="D:/Lightpoint/LightBase/src/main/resources/testXmlFiles/RegressionSuite.xml" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="D__Lightpoint_LightBase_src_main_resources_testXmlFiles_SmokeSuite_xml - 2020.09.02 at 13h 22m 41s.xml">
+      <configuration name="D:/Lightpoint/LightBase/src/main/resources/testXmlFiles/SmokeSuite.xml" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="D__Lightpoint_LightBase_src_main_resources_testXmlFiles_SmokeSuite_xml - 2020.09.02 at 13h 25m 09s.xml">
+      <configuration name="D:/Lightpoint/LightBase/src/main/resources/testXmlFiles/SmokeSuite.xml" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="D__Lightpoint_LightBase_src_main_resources_testXmlFiles_CandidateSuite_xml - 2020.09.02 at 13h 26m 34s.xml">
+      <configuration name="D:/Lightpoint/LightBase/src/main/resources/testXmlFiles/CandidateSuite.xml" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="D__Lightpoint_LightBase_src_main_resources_testXmlFiles_VacancySuite_xml - 2020.09.02 at 13h 27m 55s.xml">
+      <configuration name="D:/Lightpoint/LightBase/src/main/resources/testXmlFiles/VacancySuite.xml" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="D__Lightpoint_LightBase_src_main_resources_testXmlFiles_ValidationVacancySuite_xml - 2020.09.02 at 13h 28m 28s.xml">
+      <configuration name="D:/Lightpoint/LightBase/src/main/resources/testXmlFiles/ValidationVacancySuite.xml" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="D__Lightpoint_LightBase_src_main_resources_testXmlFiles_ValidationCandidateSuite_xml - 2020.09.02 at 13h 29m 07s.xml">
+      <configuration name="D:/Lightpoint/LightBase/src/main/resources/testXmlFiles/ValidationCandidateSuite.xml" configurationId="TestNG" />
+    </history-entry>
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="714482000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="70" y="-8" width="1304" height="784" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Designer" order="0" />
+      <window_info id="UI Designer" order="1" />
+      <window_info id="Capture Tool" order="2" />
+      <window_info id="Favorites" order="3" sideWeight="0.5011876" side_tool="true" weight="0.25723472" />
+      <window_info id="Image Layers" order="4" />
+      <window_info active="true" content_ui="combo" id="Project" order="5" sideWeight="0.49881235" visible="true" weight="0.25160772" />
+      <window_info id="Structure" order="6" sideWeight="0.5011876" side_tool="true" weight="0.25723472" />
+      <window_info anchor="bottom" id="Version Control" order="0" weight="0.55846155" />
+      <window_info anchor="bottom" id="Terminal" order="1" weight="0.32923076" />
+      <window_info anchor="bottom" id="Event Log" order="2" sideWeight="0.50321543" side_tool="true" visible="true" weight="0.18923077" />
+      <window_info anchor="bottom" id="Message" order="3" />
+      <window_info anchor="bottom" id="Find" order="4" weight="0.3276923" />
+      <window_info anchor="bottom" id="Run" order="5" sideWeight="0.49678457" weight="0.18923077" />
+      <window_info anchor="bottom" id="Database Changes" order="6" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Debug" order="7" weight="0.53846157" />
+      <window_info anchor="bottom" id="Cvs" order="8" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="9" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="10" weight="0.1676923" />
+      <window_info anchor="bottom" id="Messages" order="11" weight="0.2830769" />
+      <window_info anchor="right" id="Capture Analysis" order="0" />
+      <window_info anchor="right" id="Theme Preview" order="1" />
+      <window_info anchor="right" id="Palette&#9;" order="2" />
+      <window_info anchor="right" id="Database" order="3" weight="0.329582" />
+      <window_info anchor="right" id="Maven Projects" order="4" weight="0.23311897" />
+      <window_info anchor="right" id="Palette" order="5" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="6" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="7" weight="0.25" />
+      <window_info anchor="right" x="0" y="0" width="276" height="584" id="Documentation" order="8" side_tool="true" weight="0.329582" />
+      <window_info anchor="right" id="Coverage" order="9" side_tool="true" />
+      <window_info anchor="right" id="Ant Build" order="10" weight="0.25" />
+      <window_info anchor="right" id="Bean Validation" order="11" weight="0.329582" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.History.Properties">
+    <option name="COLUMN_ORDER">
+      <list>
+        <option value="0" />
+        <option value="2" />
+        <option value="3" />
+        <option value="1" />
+      </list>
+    </option>
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="RECENTLY_FILTERED_USER_GROUPS">
+                <collection />
+              </option>
+              <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+                <collection />
+              </option>
+              <option name="COLUMN_ORDER">
+                <list>
+                  <option value="0" />
+                  <option value="1" />
+                  <option value="2" />
+                  <option value="3" />
+                </list>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Update Project For Jenkins" />
+    <MESSAGE value="Add delete methods" />
+    <MESSAGE value="Log change" />
+    <option name="LAST_COMMIT_MESSAGE" value="Log change" />
+  </component>
+  <component name="XDebuggerManager">
+    <watches-manager>
+      <configuration name="TestNG">
+        <watch expression="candidateForAdd" language="JAVA" />
+      </configuration>
+    </watches-manager>
+  </component>
+  <component name="antWorkspaceConfiguration">
+    <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
+    <option name="FILTER_TARGETS" value="false" />
+  </component>
+  <component name="debuggerHistoryManager">
+    <expressions id="evaluateCodeFragment">
+      <expression>
+        <expression-string>result.get(&quot;name&quot;)</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>CODE_FRAGMENT</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>getRandomFromDB(Query.getRandomPosition());</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>CODE_FRAGMENT</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>getRandomFromDB(Query.getRandomVacancy());</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>CODE_FRAGMENT</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>result.get(&quot;candidateName&quot;)</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>CODE_FRAGMENT</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>result</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>CODE_FRAGMENT</evaluation-mode>
+      </expression>
+    </expressions>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/target/surefire-reports/failure_screenshots/validationAddCandidate_30_08_2020_12_47_21.png" />
+    <entry file="jar://$MAVEN_REPOSITORY$/com/codeborne/selenide/5.12.2/selenide-5.12.2-sources.jar!/com/codeborne/selenide/impl/ScreenShotLaboratory.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="46" column="13" selection-start-line="46" selection-start-column="13" selection-end-line="46" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/com/codeborne/selenide/5.12.2/selenide-5.12.2-sources.jar!/com/codeborne/selenide/Screenshots.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="19" column="11" lean-forward="true" selection-start-line="19" selection-start-column="11" selection-end-line="19" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$PROJECT_DIR$/../Instal/testng-7.1.0.jar!/org/testng/ITestResult.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="24">
+          <caret line="11" column="17" selection-start-line="11" selection-start-column="17" selection-end-line="11" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/output.txt" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/by/kvach/lightBase/service/json/JsonUtil.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/TestAPI.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/by/kvach/lightBase/service/dbangine/Procedure.java" />
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1343">
+          <caret line="79" column="21" selection-start-line="79" selection-start-column="21" selection-end-line="79" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/by/kvach/lightBase/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="13" column="35" selection-start-line="13" selection-start-column="35" selection-end-line="13" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/by/kvach/lightBase/page/candidate/AddContactModal.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-724">
+          <caret line="13" lean-forward="true" selection-start-line="13" selection-end-line="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/by/kvach/lightBase/page/candidate/CandidateDetailsPage.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="10" column="81" selection-start-line="10" selection-start-column="81" selection-end-line="10" selection-end-column="81" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/by/kvach/lightBase/page/candidate/CandidatesTablePage.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="12" column="34" selection-start-line="12" selection-start-column="34" selection-end-line="12" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/by/kvach/lightBase/page/vacancy/AddVacancyModal.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="357">
+          <caret line="27" column="35" lean-forward="true" selection-start-line="27" selection-start-column="35" selection-end-line="27" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/by/kvach/lightBase/page/vacancy/EditVacancyModal.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="18" column="21" selection-start-line="18" selection-start-column="21" selection-end-line="18" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/by/kvach/lightBase/page/vacancy/VacancyAbstractModal.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="629">
+          <caret line="46" lean-forward="true" selection-start-line="46" selection-end-line="46" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/by/kvach/lightBase/page/vacancy/VacancyPage.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1479">
+          <caret line="89" column="26" selection-start-line="89" selection-start-column="26" selection-end-line="89" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/by/kvach/lightBase/page/LoginPage.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="132">
+          <caret line="26" selection-start-line="26" selection-end-line="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/by/kvach/lightBase/service/apiangine/APIExecutor.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="15" column="42" lean-forward="true" selection-start-line="15" selection-start-column="42" selection-end-line="15" selection-end-column="42" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/by/kvach/lightBase/service/apiangine/EndPoint.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" column="52" selection-start-line="5" selection-start-column="52" selection-end-line="5" selection-end-column="52" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/by/kvach/lightBase/service/apiangine/JsonBody.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/by/kvach/lightBase/service/dbangine/DBConnect.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="18" column="34" lean-forward="true" selection-start-line="18" selection-start-column="34" selection-end-line="18" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/by/kvach/lightBase/service/dbangine/Query.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="833">
+          <caret line="51" selection-start-line="51" selection-end-line="51" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/by/kvach/lightBase/steps/ApiSteps.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="748">
+          <caret line="53" column="4" selection-start-line="53" selection-start-column="4" selection-end-line="53" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/by/kvach/lightBase/util/LogUtils.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="9" column="34" selection-start-line="9" selection-start-column="34" selection-end-line="9" selection-end-column="34" />
+          <folding>
+            <element signature="e#1007#1008#0" expanded="true" />
+            <element signature="e#1078#1079#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/by/kvach/lightBase/util/ScreenshotListener.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="197">
+          <caret line="21" column="36" selection-start-line="21" selection-start-column="36" selection-end-line="21" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/by/kvach/lightBase/util/Util.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1289">
+          <caret line="183" selection-start-line="183" selection-end-line="183" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#4880#4881#0" expanded="true" />
+            <element signature="e#4932#4933#0" expanded="true" />
+            <element signature="e#5164#5165#0" expanded="true" />
+            <element signature="e#5230#5231#0" expanded="true" />
+            <element signature="e#6335#6336#0" expanded="true" />
+            <element signature="e#6401#6402#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/testXmlFiles/CandidateSuite.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="11" selection-start-line="11" selection-end-line="11" />
+        </state>
+      </provider>
+      <provider editor-type-id="JavaFX-Scene-Builder" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/testXmlFiles/RegressionSuite.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" selection-start-line="8" selection-end-line="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/testXmlFiles/SmokeSuite.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="10" column="17" selection-start-line="10" selection-start-column="17" selection-end-line="10" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/testXmlFiles/VacancySuite.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" selection-start-line="8" selection-end-line="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/testXmlFiles/ValidationCandidateSuite.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="374">
+          <caret line="22" selection-start-line="22" selection-end-line="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/log4j2.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="289">
+          <caret line="17" column="22" selection-start-line="17" selection-start-column="22" selection-end-line="17" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/testFile.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/TestApi.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="171">
+          <caret line="22" column="102" selection-start-line="22" selection-start-column="102" selection-end-line="22" selection-end-column="102" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/TestCandidate.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1020">
+          <caret line="65" column="34" selection-start-line="65" selection-start-column="16" selection-end-line="65" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/TestVacancy.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="561">
+          <caret line="35" column="32" selection-start-line="35" selection-start-column="16" selection-end-line="35" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Jenkins" />
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="11" lean-forward="true" selection-start-line="4" selection-start-column="11" selection-end-line="4" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/reportportal.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" column="11" lean-forward="true" selection-start-line="3" selection-start-column="11" selection-end-line="3" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/pipeline.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" column="78" selection-start-line="8" selection-start-column="78" selection-end-line="8" selection-end-column="78" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/by/kvach/lightBase/steps/VacancySteps.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1360">
+          <caret line="95" selection-start-line="95" selection-end-line="95" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/by/kvach/lightBase/steps/CandidateSteps.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="346">
+          <caret line="345" column="34" selection-start-line="345" selection-start-column="34" selection-end-line="345" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/testXmlFiles/ValidationVacancySuite.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="18" selection-start-line="18" selection-end-line="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/by/kvach/lightBase/config/ConfigTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="16" column="37" lean-forward="true" selection-start-line="16" selection-start-column="37" selection-end-line="16" selection-end-column="37" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/by/kvach/lightBase/model/Contact.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" lean-forward="true" selection-start-line="3" selection-end-line="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/by/kvach/lightBase/model/Candidate.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1677">
+          <caret line="8" column="20" selection-start-line="8" selection-start-column="20" selection-end-line="8" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/by/kvach/lightBase/model/ContactType.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="12" selection-start-line="2" selection-start-column="12" selection-end-line="2" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/by/kvach/lightBase/model/Vacancy.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1068">
+          <caret line="18" column="11" selection-start-line="18" selection-start-column="11" selection-end-line="18" selection-end-column="11" />
+          <folding>
+            <element signature="method#setRequiredTechnologies#0;class#Vacancy#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/by/kvach/lightBase/page/candidate/AddCandidatePage.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="46" column="7" lean-forward="true" selection-start-line="46" selection-start-column="7" selection-end-line="46" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>No facets are configured</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>11</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>LiteBase</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>11</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>Maven: aopalliance:aopalliance:1.0</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>

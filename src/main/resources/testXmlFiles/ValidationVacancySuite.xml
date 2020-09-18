@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Validation Vacancy Suite" verbose="1">
+
+    <listeners>
+        <listener class-name="by.kvach.lightBase.util.ScreenshotListener"/>
+        <listener class-name="com.epam.reportportal.testng.ReportPortalTestNGListener"/>
+    </listeners>
+
+    <test verbose="1" name="Validation vacancy Suite">
+        <classes>
+            <class name="TestVacancy">
+                <methods>
+                    <include name="assertURLVacancy"/>
+                </methods>
+            </class>
+        </classes>
+    </test>
+
+</suite>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Candidate Suite" verbose="1" parallel="classes" thread-count="1">
+
+    <listeners>
+        <listener class-name="by.kvach.lightBase.util.ScreenshotListener"/>
+        <listener class-name="com.epam.reportportal.testng.ReportPortalTestNGListener"/>
+    </listeners>
+
+    <test verbose="1" name="Candidate">
+        <classes>
+
+            <class name="TestCandidate"/>
+
+            <class name="TestApi">
+                <methods>
+                    <include name="postAddNewCandidate"/>
+                </methods>
+            </class>
+
+        </classes>
+    </test>
+
+</suite>
+
